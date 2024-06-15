@@ -22,5 +22,4 @@ To get started with the examples in this repository, clone the repository to you
 git clone https://github.com/yasirupanduka99/JavaScript_ECMAScript-6_ES6.git
 cd JavaScript_ECMAScript-6_ES6
 
-```bash
 Happy coding! May your journey through JavaScript ES6 be enlightening and enjoyable.
